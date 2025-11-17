@@ -50,7 +50,7 @@ assign f2=((~y & z)|( w & y )|(x & y));
 endmodule
  ```
 
-Developed by: RegisterNumber:*/25017372 Name:JESSIE J
+Developed by: RegisterNumber:25017372 Name:JESSIE J
 
 
 **RTL realization**
